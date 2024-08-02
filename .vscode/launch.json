@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DioSpringSecurityJwtApplication",
+            "request": "launch",
+            "mainClass": "dio.dio_spring_security_jwt.DioSpringSecurityJwtApplication"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "dio.springsecurity.Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MyFirstWebApiApplication<my-first-web-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dio.web.api.MyFirstWebApiApplication",
+            "projectName": "my-first-web-api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
