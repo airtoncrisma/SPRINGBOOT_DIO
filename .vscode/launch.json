@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "DioSpringSecurityJwtApplication",
             "request": "launch",
             "mainClass": "dio.dio_spring_security_jwt.DioSpringSecurityJwtApplication"
