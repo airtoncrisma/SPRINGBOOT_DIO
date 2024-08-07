@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation.gof.service.impl;
+package one.digitalinnovation.gof.service.impl;
 
 import java.util.Optional;
 

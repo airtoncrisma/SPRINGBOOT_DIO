@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation.gof.model;
+package one.digitalinnovation.gof.model;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
