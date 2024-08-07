@@ -2,34 +2,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "one.digitalinnovation.gof.Main",
-            "projectName": "lab-padroes-projeto-spring"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "src.main.java.one.digitalinnovation.gof.Main",
-            "projectName": "lab-padroes-projeto-spring"
-        },
-        {
-            "type": "java",
-            "name": "Application",
-            "request": "launch",
-            "mainClass": "one.digitalinnovation.Application",
-            "projectName": "demo"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "one.digitalinnovation.Main",
-            "projectName": ""
-        },
-        {
-            "type": "java",
             "name": "Application",
             "request": "launch",
             "mainClass": "one.digitalinnovation.gof.Application"
