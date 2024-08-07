@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation.gof.service;
+package one.digitalinnovation.gof.service;
 
 import one.digitalinnovation.gof.model.Cliente;
 
